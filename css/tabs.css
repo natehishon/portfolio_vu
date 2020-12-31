@@ -13,11 +13,10 @@ display: none;
 }
 .tab-pane.is-active {
 display: block;
-/*width: 50%;*/
-/*position: relative;*/
-/*left: 50%;*/
-/*transform: translateX(-50%);*/
 }
+/*.tab-pane:focus{*/
+/*	display: block;*/
+/*}*/
 .is-active {
 display: initial;
 }
