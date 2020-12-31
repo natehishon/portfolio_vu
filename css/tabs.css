@@ -58,6 +58,14 @@ li.is-active{
 	font-weight: 500;
 }
 
+.link-color{
+	color: #3298dc!important;
+}
+
 .hero-body{
 	padding: 1.5rem 1.5rem!important;
+}
+
+li{
+	outline:none;
 }
