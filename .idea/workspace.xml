@@ -20,6 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9b59c073-648d-4e60-bdd9-552e169af962" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/opens.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/opens_cropped.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/signs_crop.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/tabs.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/tabs.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
@@ -50,6 +53,9 @@
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
     </key>
@@ -83,9 +89,9 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="458" y="215" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1609210289061">
+    <state x="458" y="215" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1609547874127">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="458" y="215" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.877@0.23.1440.877" timestamp="1609210289061" />
+    <state x="458" y="215" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.877@0.23.1440.877" timestamp="1609547874127" />
   </component>
 </project>

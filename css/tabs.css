@@ -62,6 +62,11 @@ li.is-active{
 	color: #3298dc!important;
 }
 
+.link-bold{
+	color: #3298dc!important;
+	font-weight: 700;
+}
+
 .hero-body{
 	padding: 1.5rem 1.5rem!important;
 }
