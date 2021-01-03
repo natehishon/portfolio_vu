@@ -77,12 +77,15 @@ li{
 
 .icons{
 	font-size: 24px;
-	color: white;
+}
+
+.icons a {
+	color: white!important;
 }
 
 .icon-flask{
 	font-size: 22px;
 	position: absolute;
-	bottom: 8px;
+	bottom: 7px;
 	left: 52px;
 }
