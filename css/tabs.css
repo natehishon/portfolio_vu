@@ -88,4 +88,5 @@ li{
 	position: absolute;
 	bottom: 7px;
 	left: 52px;
+	transform: translate(-1px, -1px);
 }
