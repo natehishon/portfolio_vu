@@ -21,7 +21,8 @@
   <component name="ChangeListManager">
     <list default="true" id="9b59c073-648d-4e60-bdd9-552e169af962" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/tabs.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/tabs.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/bulma.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/bulma.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,6 +67,7 @@
       <updated>1609197854569</updated>
       <workItem from="1609197855660" duration="10228000" />
       <workItem from="1609277033104" duration="511000" />
+      <workItem from="1620062655038" duration="643000" />
     </task>
     <servers />
   </component>
@@ -85,13 +87,9 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="458" y="215" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1609547874127">
-      <screen x="0" y="23" width="1440" height="877" />
+    <state x="421" y="217" width="597" height="490" key="find.popup" timestamp="1620063544758">
+      <screen x="0" y="25" width="1440" height="875" />
     </state>
-    <state x="458" y="215" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.877@0.23.1440.877" timestamp="1609547874127" />
-    <state x="518" y="382" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1609564110664">
-      <screen x="0" y="23" width="1440" height="877" />
-    </state>
-    <state x="518" y="382" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.877@0.23.1440.877" timestamp="1609564110664" />
+    <state x="421" y="217" width="597" height="490" key="find.popup/0.25.1440.875@0.25.1440.875" timestamp="1620063544758" />
   </component>
 </project>
