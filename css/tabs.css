@@ -84,9 +84,9 @@ li{
 }
 
 .icon-flask{
-	font-size: 22px;
-	position: absolute;
-	bottom: 7px;
-	left: 52px;
-	transform: translate(-1px, -1px);
+	/*font-size: 22px;*/
+	/*position: absolute;*/
+	/*bottom: 7px;*/
+	/*left: 52px;*/
+	transform: translate(-2px, -1px);
 }
